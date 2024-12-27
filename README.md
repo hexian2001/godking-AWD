@@ -4,6 +4,16 @@
 
 工程体量较大，且仅由我一人独立实现，对于容器的回收机制仍然存在一些稳定性问题。
 
+项目下载地址：（包含所有源码和所需环境的静态编译ELF）
+
+谷歌云
+https://drive.google.com/file/d/1iuN5MKmMUhNNPQLsFtl0O836MAf8nKd1/view?usp=sharing
+
+百度云盘
+通过网盘分享的文件：GodKing.zip
+链接: https://pan.baidu.com/s/1snblJ9JEIEjIB62BvVubXw?pwd=8qkc 提取码: 8qkc 
+--来自百度网盘超级会员v6的分享
+
 大体分为以下3个部分：
 
 1.awd后端
